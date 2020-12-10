@@ -4,3 +4,4 @@
 4. Order the pizza.
 5. Wait for the delivery.
 6. Pay the delivery driver upon receipt of pizza.
+7. Eat the pizza.
