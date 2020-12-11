@@ -1,4 +1,5 @@
 1. Determine which restaurant to order from.
+  1a. Check Yelp to determine if the restaurant delivers.
 2. Decide which type of pizza to order.
 3. Call the restaurant.
 4. Order the pizza.
