@@ -1,6 +1,7 @@
 1. Determine which restaurant to order from.
   1a. Check Yelp to determine if the restaurant delivers.
 2. Decide which type of pizza to order.
+  2a. Make sure your wife is cool with that specific pizza.
 3. Call the restaurant.
 4. Order the pizza.
 5. Wait for the delivery.
